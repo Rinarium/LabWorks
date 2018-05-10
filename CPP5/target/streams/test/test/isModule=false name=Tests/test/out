@@ -1,0 +1,11 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mTests:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should find index of element in list[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should find index of element in list by tailrec[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should find index of not-element in list[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should find index of not-element in list by tailrec[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should find index of element in empty list[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should find index of element in empty list by tailrec[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should sum elements of list[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should sum elements of list by tailrec[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should divide by zero counting sum[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should divide by zero counting sum by tailrec[0m[0m
